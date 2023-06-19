@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(244, 244, 244);
+}
+
+
+.navbar-toggler-icon{
+    width: 35px;
+    height: 35px;
+}
+
+.info{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+
+.graph-div img{
+    min-width: 305px;
+}
+
+.nav-link:hover{
+    color: rgba(74, 147, 47, 0.744);
+    transition: 0.1s;
+}
+
+.graph-div img{
+    width: 40%;
+}
+
+#submit-button{
+    width: 105px;
+}
+
+.spinner-border{
+    margin-right: 2px;
+}
+
+.table-option-gap{
+    margin-bottom: 7px;
+}
+
+#table-option{
+    color:green;
+}
+
+#display{
+    padding-top: 20px;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+
+.title{
+    padding-top: 100px;
+    text-align: center;
+    width: 90%;
+    margin: auto;
+}
+
+.result{
+    font-size: 42px;
+    padding-left: 2px;
+}
